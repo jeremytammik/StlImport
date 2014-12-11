@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>StlImport</Name>
+    <Assembly>StlImport.dll</Assembly>
+    <FullClassName>StlImport.StlImportApplication</FullClassName>
+    <ClientId>e20bd97f-eee3-4e69-ae40-3fbc247d13ca</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
